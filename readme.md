@@ -1,1 +1,2 @@
 # Our platformer
+Видно?
